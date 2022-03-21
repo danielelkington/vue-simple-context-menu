@@ -1,8 +1,10 @@
-# vue-3-simple-context-menu
+# vue-3-simple-context-menu (UNMAINTAINED)
 
 Fork of [vue-simple-context-menu](https://github.com/johndatserakis/vue-simple-context-menu) with Vue 3 support.
 
-Useful if you were previously using vue-simple-context-menu in a Vue 2 project and want to upgrase to Vue 3 without hassle - you should be able to switch to this npm package and update import statements, and apart from that this should be 100% compatible with your existing code.
+**Unmaintained - please do not use this library. Instead use v4.0.0+ of the [original library](https://github.com/johndatserakis/vue-simple-context-menu) for Vue 3 support.**
+
+~~Useful if you were previously using vue-simple-context-menu in a Vue 2 project and want to upgrase to Vue 3 without hassle - you should be able to switch to this npm package and update import statements, and apart from that this should be 100% compatible with your existing code.~~
 
 Simple context-menu component built for Vue. Works well with both left and right clicks. Nothing too fancy, just works and is simple to use.
 
